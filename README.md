@@ -97,12 +97,16 @@ identity:
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Engineering Domain Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Baranigsiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranigsiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Top Languages" />
+| Focus Area | Core Stack & Specialization |
+|---|---|
+| ⚡ **Systems Programming** | Go, Modern C++17/20, High-Throughput I/O, SIMD, FastHTTP |
+| 🧠 **AI Infrastructure** | Universal LLM Gateways, Semantic & Exact Caching, Streaming SSE Translators |
+| 🛡️ **Security & Reliability** | PII Redaction Guard, Circuit Breaker Fallback Chains, Token-Bucket Rate Limiting |
+| 🖥️ **Developer Tooling** | Single-Binary CLIs, Charm Bubbletea Terminal UIs, Cross-Compilation Pipelines |
 
 </div>
 
