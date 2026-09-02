@@ -2,7 +2,7 @@
 
 <!-- Animated Dynamic Typing Header -->
 <a href="https://github.com/Baranigsiz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Hi%2C+I'm+Baran+Igsiz;Full-Stack+Software+Engineer+%26+Systems+Architect;Building+High-Traffic+Web+Platforms+(afteranime.net);Crafting+Autonomous+Discord+Bots+%26+AI+Systems;Ultra-Fast+AI+Gateways+in+Go+(KurisuGate);High-Performance+C%2B%2B+Engines+%26+DevTools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=%E2%9A%A1+Hi%2C+I'm+Baran+Igsiz;Full-Stack+Software+Engineer;Building+afteranime.net+%26+Web+Apps;Autonomous+Discord+Bots+%26+AI+Systems;Ultra-Fast+Go+Gateways+(KurisuGate);Modern+C%2B%2B20+Engines+(SenkoJSON)" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=Baranigsiz&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Baranigsiz"><img src="https://img.shields.io/github/followers/Baranigsiz?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Stack-Full--Stack%20%26%20Systems-blueviolet?style=flat-square" alt="Stack" />
-  <img src="https://img.shields.io/badge/Focus-High%20Performance%20%26%20Scalability-ff69b4?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-High%20Performance-ff69b4?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Zero--Dep-success?style=flat-square" alt="Architecture" />
 </p>
 
 ---
@@ -127,12 +127,11 @@ identity:
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Baranigsiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Baran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranigsiz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Baranigsiz&theme=tokyonight&hide_border=true" alt="Baran's GitHub Streak" />
 
 </div>
 
