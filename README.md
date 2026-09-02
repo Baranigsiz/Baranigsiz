@@ -29,13 +29,13 @@ identity:
   title: "Full-Stack Software Engineer & Systems Architect"
   location: "Turkey"
   passions: 
-    - "Scalable Full-Stack Web Applications (e.g. afteranime.net)"
+    - "Scalable Full-Stack Web Platforms (afteranime.net)"
     - "Autonomous & AI-Driven Discord Bots"
     - "High-Throughput AI Gateways & Reverse Proxies (KurisuGate)"
     - "Modern Low-Latency Systems & DevTools (Go, C++20, Python, TypeScript)"
   philosophy: "End-to-end engineering excellence — from sub-millisecond low-level backends and AI caching to sleek, dynamic fullstack web experiences."
   current_initiatives:
-    - "Scaling afteranime.net media indexing & high-traffic streaming architecture"
+    - "Scaling afteranime.net (smart Anime ↔ Manga/Novel progression mapping & high-traffic streaming)"
     - "Autonomous multi-purpose Discord bot fleets & real-time automation microservices"
     - "Universal AI Gateways & Dual-Tier Vector Caching in Go (KurisuGate)"
     - "High-speed serialization, JSONPath & Patch engines in C++20 (SenkoJSON)"
@@ -49,16 +49,16 @@ identity:
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🌐 <a href="https://afteranime.net">AfterAnime</a></h3>
-      <p>Modern, high-traffic full-stack anime streaming, catalog, and community platform engineered with responsive UI, dynamic search, and optimized media streaming pipelines.</p>
+      <p>Modern high-traffic full-stack anime platform featuring an intelligent <strong>Anime ↔ Manga / Light Novel progression sync</strong> that precisely maps where you left off in an anime to the exact manga chapter and novel volume, paired with high-speed streaming pipelines and instant search.</p>
       <p>
         <img src="https://img.shields.io/badge/Platform-Web%20App-00ADD8?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Live-afteranime.net-success?style=flat-square&logo=google-chrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Architecture-High--Traffic-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Feature-Anime%20%E2%86%94%20Manga%20Sync-blueviolet?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🤖 <a href="https://github.com/Baranigsiz">Autonomous Discord Bot Fleet</a></h3>
-      <p>Production-grade autonomous bot ecosystem featuring AI-assisted moderation, intelligent event handling, background queue workers, and high-concurrency microservices.</p>
+      <p>Production-grade autonomous bot ecosystem featuring event-driven background queues, AI-assisted auto-moderation, Spotify audio streaming filters, interactive UI buttons, and high-concurrency microservices.</p>
       <p>
         <img src="https://img.shields.io/badge/Discord-Bots%20%26%20Automation-5865F2?style=flat-square&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/Type-Autonomous-blueviolet?style=flat-square" />
@@ -161,6 +161,9 @@ identity:
 </a>
 <a href="https://github.com/Baranigsiz">
   <img src="https://img.shields.io/badge/GitHub-Baranigsiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-Community%20%26%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="mailto:baranigsiz@gmail.com">
   <img src="https://img.shields.io/badge/Email-baranigsiz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
