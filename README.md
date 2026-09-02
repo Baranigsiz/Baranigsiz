@@ -2,11 +2,11 @@
 
 <!-- Animated Dynamic Typing Header -->
 <a href="https://github.com/Baranigsiz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=%E2%9A%A1+Hi%2C+I'm+Baran+Igsiz;Full-Stack+Software+Engineer;Building+afteranime.net+%26+Web+Apps;Autonomous+Discord+Bots+%26+AI+Systems;Ultra-Fast+Go+Gateways+(KurisuGate);Modern+C%2B%2B20+Engines+(SenkoJSON)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=%E2%9A%A1+Hi%2C+I'm+Baran+Igsiz;Full-Stack+Software+Engineer;Building+afteranime.net+%26+Web+Apps;Ultra-Fast+AI+Gateways+(KurisuGate);Modern+C%2B%2B20+Engines+(SenkoJSON)" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <strong>Full-Stack Web Development • Systems & AI Infrastructure • Autonomous Bot Ecosystems • Modern Go, C++ & TypeScript</strong>
+  <strong>Full-Stack Web Development • Systems & AI Infrastructure • High-Performance Go, C++ & TypeScript</strong>
 </p>
 
 <p align="center">
@@ -30,39 +30,30 @@ identity:
   location: "Turkey"
   passions: 
     - "Scalable Full-Stack Web Platforms (afteranime.net)"
-    - "Autonomous & AI-Driven Discord Bots"
     - "High-Throughput AI Gateways & Reverse Proxies (KurisuGate)"
     - "Modern Low-Latency Systems & DevTools (Go, C++20, Python, TypeScript)"
+    - "Autonomous Microservices & Bot Architectures"
   philosophy: "End-to-end engineering excellence — from sub-millisecond low-level backends and AI caching to sleek, dynamic fullstack web experiences."
   current_initiatives:
     - "Scaling afteranime.net (smart Anime ↔ Manga/Novel progression mapping & high-traffic streaming)"
-    - "Autonomous multi-purpose Discord bot fleets & real-time automation microservices"
     - "Universal AI Gateways & Dual-Tier Vector Caching in Go (KurisuGate)"
     - "High-speed serialization, JSONPath & Patch engines in C++20 (SenkoJSON)"
 ```
 
 ---
 
-### 🌟 Featured Projects & Highlights
+### 🌟 Featured Projects & Platforms
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🌐 <a href="https://afteranime.net">AfterAnime</a></h3>
-      <p>Modern high-traffic full-stack anime platform featuring an intelligent <strong>Anime ↔ Manga / Light Novel progression sync</strong> that precisely maps where you left off in an anime to the exact manga chapter and novel volume, paired with high-speed streaming pipelines and instant search.</p>
+    <td colspan="2" valign="top">
+      <h3 align="left">🌐 <a href="https://afteranime.net">AfterAnime</a> — Modern Anime & Manga Platform</h3>
+      <p>Modern high-traffic full-stack anime platform featuring an intelligent <strong>Anime ↔ Manga / Light Novel progression sync</strong> that precisely maps where you left off in an anime to the exact manga chapter and novel volume, paired with high-speed media streaming pipelines and instant search.</p>
       <p>
         <img src="https://img.shields.io/badge/Platform-Web%20App-00ADD8?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Live-afteranime.net-success?style=flat-square&logo=google-chrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Feature-Anime%20%E2%86%94%20Manga%20Sync-blueviolet?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 <a href="https://github.com/Baranigsiz">Autonomous Discord Bot Fleet</a></h3>
-      <p>Production-grade autonomous bot ecosystem featuring event-driven background queues, AI-assisted auto-moderation, Spotify audio streaming filters, interactive UI buttons, and high-concurrency microservices.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Discord-Bots%20%26%20Automation-5865F2?style=flat-square&logo=discord&logoColor=white" />
-        <img src="https://img.shields.io/badge/Type-Autonomous-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Async-Microservices-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-High--Traffic-orange?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -119,7 +110,7 @@ identity:
 | **Frontend & Web** | <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,vue,vite" /> |
 | **Backend & Systems** | <img src="https://skillicons.dev/icons?i=go,cpp,python,nodejs,express,c" /> |
 | **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,supabase" /> |
-| **AI & Autonomous Bots** | `OpenAI API` • `Claude` • `Gemini` • `DeepSeek` • `Discord.py / Discord.js` • `Vector DBs` • `WebSockets` |
+| **AI & Microservices** | `OpenAI API` • `Claude` • `Gemini` • `DeepSeek` • `Discord API` • `Vector DBs` • `WebSockets` |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,prometheus" /> |
 | **Developer Tools** | <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,powershell,bash" /> |
 
@@ -144,8 +135,8 @@ identity:
 | Domain | Specialization & Key Capabilities |
 |---|---|
 | 🌐 **Full-Stack Web Development** | Modern SPA & SSR platforms (Next.js, React, Node.js), API design, responsive UI/UX, media streaming, web security |
-| 🤖 **Autonomous Bots & Automation** | Event-driven Discord bots, automated moderation & workflow triggers, Webhook dispatchers, background workers |
 | ⚡ **Systems & AI Infrastructure** | High-performance Go & C++ services, sub-millisecond AI reverse proxies (KurisuGate), semantic caching, SIMD acceleration |
+| 🤖 **Bot & Microservice Architecture** | Event-driven Discord bots, background task workers, streaming audio filters, API integrations |
 | 🛡️ **Reliability & Scalability** | Circuit breakers, distributed caching (Redis), rate-limiting, containerized microservices (Docker), CI/CD workflows |
 
 </div>
@@ -161,9 +152,6 @@ identity:
 </a>
 <a href="https://github.com/Baranigsiz">
   <img src="https://img.shields.io/badge/GitHub-Baranigsiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-Community%20%26%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="mailto:baranigsiz@gmail.com">
   <img src="https://img.shields.io/badge/Email-baranigsiz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
